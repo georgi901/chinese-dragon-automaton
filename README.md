@@ -5,8 +5,6 @@ Chinese dragon to life through a system of phase-offset cams. The dragon's body
 is segmented into ten individually moving parts that rise and fall sequentially,
 creating the iconic undulating wave motion of the Chinese dragon in flight.
 
-![Full view of the Chinese dragon automaton](images/Full-view.png)
-
 ---
  
 ## How It Works
@@ -368,17 +366,6 @@ clean round numbers across all mating parts. The Spur Gear add-in was used for
 both gears.
 
  
-## Project Status
- 
-**In development** — the repository will be updated throughout the project with:
- 
-- [x] All mechanism `.f3d` source files
-- [ ] All `.stl` files ready for slicing
-- [ ] Dragon body segment `.f3d` and `.stl` files
-- [ ] Photos of the modeling process in Fusion 360
-- [ ] Photos and timelapse of the printing process
-- [ ] Final demonstration video showing the wave motion
-- [ ] Motion study GIF
 ---
  
 ## References & Inspiration
