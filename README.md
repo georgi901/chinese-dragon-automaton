@@ -4,10 +4,12 @@ Final project for 3D Printing — a hand-cranked mechanical automaton that bring
 Chinese dragon to life through a system of phase-offset cams. The dragon's body
 is segmented into ten individually moving parts that rise and fall sequentially,
 creating the iconic undulating wave motion of the Chinese dragon in flight.
- 
+
+![Full view of the Chinese dragon automaton](images/Full-view.png)
+
 ---
  
-## 🎯 How It Works
+## How It Works
  
 A horizontal **camshaft** runs through the housing, fitted with ten eccentric cam
 profiles, each rotated to a different angle relative to the others (phase-offset).
@@ -30,7 +32,7 @@ dragon "flying" through clouds.
  
 ---
  
-## 📐 Dimensions
+## Dimensions
  
 Overall footprint of the assembled automaton: approximately **120 × 40 × 80 mm**
 (length × width × height).
@@ -49,7 +51,7 @@ Overall footprint of the assembled automaton: approximately **120 × 40 × 80 mm
  
 ---
  
-## 🧩 Components
+## Components
  
 The project mirrors the structure of the reference dolphin automaton, with all
 mechanism parts reused and only the body segments redesigned. Each component
@@ -304,7 +306,7 @@ mechanism components except `Follower_rod`, which is printed ten times).
  
 ---
  
-## 🎨 Design Decisions & Personal Touches
+## Design Decisions & Personal Touches
  
 Going beyond a direct copy of the reference dolphin automaton, the following
 intentional design choices make this project original:
@@ -332,7 +334,7 @@ intentional design choices make this project original:
   amplifying the wave speed relative to the input.
 ---
  
-## 🛠️ Assembly Notes
+## Assembly Notes
  
 - The `Camshaft` is printed as a single piece with all ten cam profiles
   integrated. No assembly of individual cams is required.
@@ -358,7 +360,7 @@ intentional design choices make this project original:
   cleaned.
 ---
  
-## 📷 Modeling Process
+## Modeling Process
  
 All parts were modeled in Autodesk Fusion 360 using fully constrained parametric
 sketches. Dimensions were typed as explicit values (not drawn freehand) to ensure
@@ -366,9 +368,9 @@ clean round numbers across all mating parts. The Spur Gear add-in was used for
 both gears.
 
  
-## 🚧 Project Status
+## Project Status
  
-🟡 **In development** — the repository will be updated throughout the project with:
+**In development** — the repository will be updated throughout the project with:
  
 - [x] All mechanism `.f3d` source files
 - [ ] All `.stl` files ready for slicing
@@ -377,10 +379,9 @@ both gears.
 - [ ] Photos and timelapse of the printing process
 - [ ] Final demonstration video showing the wave motion
 - [ ] Motion study GIF
-- [ ] Complete documentation and lessons learned
 ---
  
-## 📚 References & Inspiration
+## References & Inspiration
  
 - Reference automaton: swimming-dolphin cam-driven kinetic sculpture, GrabCAD
   Library (<https://grabcad.com/library/swimming-dolphin-1>)
